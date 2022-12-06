@@ -316,7 +316,7 @@ footer {
   border-top: 4px solid var(--main-red);
 }
 
-footer>p {
+footer p {
   margin: 2rem;
 }
 
